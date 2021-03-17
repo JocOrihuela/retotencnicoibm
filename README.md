@@ -11,3 +11,8 @@ Paso 3: Identificamos el Image ID y ejecutamos el comando.
 Paso 4: Probar la URL en el navegador-
 
 http://localhost:3081/retoibm/sumar/123/5
+
+
+
+DOKER HUB
+docker pull jorihuela/retobase-backend:latest
